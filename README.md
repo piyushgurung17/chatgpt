@@ -1,0 +1,1 @@
+ChatGPT Sentiment Analysis (NLP-based) is a Python project that uses traditional Natural Language Processing techniques and machine learning algorithms to classify text into Positive, Negative, or Neutral sentiments 
